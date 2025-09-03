@@ -11,4 +11,4 @@ its been 7 days i have not played the 8 queens game
 because the bot is under maintanence
 yes
 okayy now the bot has been fixed i played 2 games i guess but only one of them generated the proof
-they have fixed those errors now!
+they have fixed those errors now! 
